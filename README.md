@@ -105,6 +105,6 @@ Annotations were produced using a semi-automatic pipeline integrating:
 
 An open-source, browser-based annotation platform is provided to ensure reproducibility and facilitate future dataset extension.
 
-The Dataset can be downloaded at: https://drive.google.com/file/d/1_tMu4l7VDX_mF3TIya-_I5ns3_hsHtZu/view?usp=drive_link
+The Dataset can be downloaded at: BLANK (removed link due to fixing some issues with the download link)
 
 
