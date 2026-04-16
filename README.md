@@ -109,17 +109,17 @@ An open-source, browser-based annotation platform is provided to ensure reproduc
 
 We provide a Python script that allows users to visualize annotations overlaid on a video.
 
-# Parameters
+### Parameters
 
 The script requires the following arguments:
 
 --video: Path to the video file
 --annotations: Path to the annotation file
-# Usage
+### Usage
 
 Run the script and press Space to begin visualizing the annotations.
 
-# Controls
+### Controls
 Space: Advance to the next frame and display annotations
 Q: Exit the program
 
