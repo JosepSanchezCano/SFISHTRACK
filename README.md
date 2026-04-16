@@ -105,6 +105,25 @@ Annotations were produced using a semi-automatic pipeline integrating:
 
 An open-source, browser-based annotation platform is provided to ensure reproducibility and facilitate future dataset extension.
 
+## Script to Visualize the Annotations
+
+We provide a Python script that allows users to visualize annotations overlaid on a video.
+
+# Parameters
+
+The script requires the following arguments:
+
+--video: Path to the video file
+--annotations: Path to the annotation file
+# Usage
+
+Run the script and press Space to begin visualizing the annotations.
+
+# Controls
+Space: Advance to the next frame and display annotations
+Q: Exit the program
+
+
 The Dataset can be downloaded at: BLANK (removed link due to fixing some issues with the download link)
 
 
