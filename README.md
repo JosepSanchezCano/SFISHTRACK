@@ -5,7 +5,7 @@ A high-quality underwater video dataset for fish segmentation and multi-object t
 
 ## Overview
 
-SFISHTRACK is a curated underwater video dataset designed for **fish segmentation and multi-object tracking** in natural marine environments. It provides pixel-level instance segmentation masks and temporally consistent identities for each fish, supporting research in computer vision, marine ecology, environmental monitoring, and autonomous underwater systems. fileciteturn0file0
+SFISHTRACK is a curated underwater video dataset designed for **fish segmentation and multi-object tracking** in natural marine environments. It provides pixel-level instance segmentation masks and temporally consistent identities for each fish, supporting research in computer vision, marine ecology, environmental monitoring, and autonomous underwater systems.
 
 The dataset was collected in the **Balearic Sea (Mediterranean region, Spain)** between 2021 and 2025 and captures a wide range of real-world underwater conditions, including variations in lighting, turbidity, depth, background complexity, and species diversity.
 
@@ -42,6 +42,12 @@ dataset/
 ├── annotations/
 │   ├── video_001.json
 │   ├── video_002.json
+│   └── ...
+├── masks/
+│   ├── masks_001/
+│   │   ├── mask_000001.jpg
+│   │   ├── mask_000002.jpg
+│   │   └── ...
 │   └── ...
 ├── metadata/
 │   ├── video_001.json
